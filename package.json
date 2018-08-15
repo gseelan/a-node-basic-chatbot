@@ -1,0 +1,20 @@
+{
+  "name": "a-node-basic-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot",
+  "main": "index.js",
+  "author": "gseelan",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gseelan@github.com/gseelan/a-node-basic-chatbot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gseelan/a-node-basic-chatbot/issues"
+  },
+  "homepage": "https://github.com/gseelan/a-node-basic-chatbot#readme"
+}

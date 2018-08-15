@@ -1,0 +1,4 @@
+{
+    "in" : ["Hi","Hello", "How are you"],
+    "out": ["Welcome Sir", "Helllooooo","I'm good.Thank you!"]
+}
